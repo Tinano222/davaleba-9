@@ -1,0 +1,142 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.logo {
+    width: 33px;
+    height: 42px;
+    gap: 0px;
+    margin-right: 800px; 
+
+}
+
+p {
+    top: -508px;
+    left: 89px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 19.55px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgba(99, 96, 96, 1);
+}
+
+div {
+        display: flex;
+        flex-direction: row;
+}
+
+img {
+    width: 286px;
+    height: 195px;
+    top: 233px;
+    left: -301px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.foto {
+    width: 1440px;
+    height: 606px;
+    top: -457px;
+    left: -719px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.s {
+    background-image: url("https://s3-alpha-sig.figma.com/img/8dd0/a521/be68616e61590a62c37a70d547c5921c?Expires=1732492800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GmJDJcSwz030E5yuau-PxwpXzqQpiwZHNasWIrHMURoGZpj0XHJRVaPxcjpkMJe9Lmbw7wVwGdgyAw7wK2Jsk2e1q4n4ngfVzrONKWhdylGZbR7dEnouBFAahBS9gZKJ2vrnPOdyD-abAMZjaYl-5vzQT5KIOqRvEBs5TCtDqF2Qkih3l6Jj0AErCgexce18ipw5DWK-J-Cx33I6d7nBD6C0O1CUXBzozFUMNYoY8TitytcbeWGLfzokfDjDxudNTyqwD7LvufwH~JKhlcmDBBNNtZ0zP6NsJxS981izxfu6Pdxx1FrwpGUxDkOEOHH97mdqLcrvYwXvcSeANP2xxQ__");
+    position: relative;
+    display: flex;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
+.pirveli {
+    width: 625px;
+    height: 91px;
+    top: -219px;
+    left: -312px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Helvetica;
+    font-size: 79px;
+    font-weight: 700;
+    line-height: 90.84px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgba(255, 255, 255, 1);
+}
+
+.meore {
+    width: 333px;
+    height: 22px;
+    top: -97px;
+    left: -166px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Helvetica;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgba(255, 255, 255, 1);
+    
+}
+
+#t {
+    margin-left: 450px;
+}
+
+h1 {
+    width: 214px;
+height: 32px;
+top: 262px;
+left: -619px;
+gap: 0px;
+opacity: 0px;
+font-family: Helvetica;
+font-size: 28px;
+font-weight: 400;
+line-height: 32.2px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: rgba(1, 1, 1, 1);
+}
+
+h5 {
+    width: 162px;
+height: 22px;
+top: 451px;
+left: -301px;
+gap: 0px;
+opacity: 0px;
+font-family: Helvetica;
+font-size: 19px;
+font-weight: 400;
+line-height: 21.85px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: rgba(52, 50, 50, 1);
+}
+
+
+
+
+
